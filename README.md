@@ -1,5 +1,15 @@
 # [Striver-SDE-Sheet-Challenge](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems)
 
+| Start Date  | End Date |
+|-------------|----------|
+| 5 June 2022 |          |
+
+🔴 No Question Solved   🟥 <br>
+🟡 Some Questions Solved🟨 <br>
+🟢 All Questions Solved 🟩 <br>
+
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+
 ## Day-1: (Arrays)
 
 <details>
@@ -35,6 +45,48 @@
 | 5     | `Array` | [Repeat and Missing Number](https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers)                             | ❌        | <a href="https://github.com/AkashSingh3031/Striver-SDE-Sheet-Challenge/blob/master/02%5D.%20Day-2%20(Arrays)/CodeStudio/"><img src="https://img.shields.io/badge/CodeStudio-Solution-red"></a> <br> <a href="https://github.com/AkashSingh3031/Striver-SDE-Sheet-Challenge/blob/master/02%5D.%20Day-2%20(Arrays)/Leetcode/"><img src="https://img.shields.io/badge/Leetcode-Solution-red"></a>                                                                           | <a href="https://www.youtube.com/watch?v=5nMGY4VUoRY&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=3"><img src="https://img.shields.io/badge/Video-Solution-green"></a>  |
 | 6     | `Array` | [Inversion of Array (Pre-req: Merge Sort)](https://takeuforward.org/data-structure/count-inversions-in-an-array)                        | ❌        | <a href="https://github.com/AkashSingh3031/Striver-SDE-Sheet-Challenge/blob/master/02%5D.%20Day-2%20(Arrays)/CodeStudio/"><img src="https://img.shields.io/badge/CodeStudio-Solution-red"></a> <br> <a href="https://github.com/AkashSingh3031/Striver-SDE-Sheet-Challenge/blob/master/02%5D.%20Day-2%20(Arrays)/Leetcode/"><img src="https://img.shields.io/badge/Leetcode-Solution-red"></a>                                                                           | <a href="https://www.youtube.com/watch?v=kQ1mJlwW-c0"><img src="https://img.shields.io/badge/Video-Solution-green"></a>                                                  |
 
+<br>
+<div align="right">
+  <h3><b><a href="#striver-sde-sheet-challenge">⬆️ Back to Top</a></b></h3>
+</div>
+<br>
+</details>
+
+## Day-3: (Arrays)
+
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-f00?style=for-the-badge"></summary>
+
+| S.No. | Topic:  | Problems                                                                                                                                | Solutions | C++                                                                                                                                                                  | Video-Solution                                                                                                                                                            |
+|-------|---------|-----------------------------------------------------------------------------------------------------------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | `Array` |                                                               
+| 2     | `Array` |                                                                 
+| 3     | `Array` |                                                                 
+| 4     | `Array` |                                                                 
+| 5     | `Array` |                                                                 
+| 6     | `Array` |                                                                 
+  
+<br>
+<div align="right">
+  <h3><b><a href="#striver-sde-sheet-challenge">⬆️ Back to Top</a></b></h3>
+</div>
+<br>
+</details>
+
+## Day-4: (Arrays)
+
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-f00?style=for-the-badge"></summary>
+
+| S.No. | Topic:  | Problems                                                                                                                                | Solutions | C++                                                                                                                                                                  | Video-Solution                                                                                                                                                            |
+|-------|---------|-----------------------------------------------------------------------------------------------------------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | `Array` |                                                               
+| 2     | `Array` |                                                                 
+| 3     | `Array` |                                                                 
+| 4     | `Array` |                                                                 
+| 5     | `Array` |                                                                 
+| 6     | `Array` |                                                                 
+  
 <br>
 <div align="right">
   <h3><b><a href="#striver-sde-sheet-challenge">⬆️ Back to Top</a></b></h3>
