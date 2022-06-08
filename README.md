@@ -57,15 +57,15 @@
 <details>
   <summary><img id="array" src="https://img.shields.io/badge/Arrays-6-f00?style=for-the-badge"></summary>
 
-| S.No. | Topic:  | Problems                                                                                                                                | Solutions | C++                                                                                                                                                                  | Video-Solution                                                                                                                                                            |
-|-------|---------|-----------------------------------------------------------------------------------------------------------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1     | `Array` |                                                               
-| 2     | `Array` |                                                                 
-| 3     | `Array` |                                                                 
-| 4     | `Array` |                                                                 
-| 5     | `Array` |                                                                 
-| 6     | `Array` |                                                                 
-  
+| S.No. | Topic:  | Problems                                                                                                                                                           | Solutions | C++                                                                                                                                                                  | Video-Solution                                                                                                                                                            |
+|-------|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | `Array` | [Search in a 2d Matrix](https://takeuforward.org/data-structure/search-in-a-sorted-2d-matrix)                                                                      | ❌        |
+| 2     | `Array` | [Pow(X,n)](https://takeuforward.org/data-structure/implement-powxn-x-raised-to-the-power-n)                                                                        | ❌        |
+| 3     | `Array` | [Majority Element (>N/2 times)](https://takeuforward.org/data-structure/find-the-majority-element-that-occurs-more-than-n-2-times)                                 | ❌        |                               
+| 4     | `Array` | [Majority Element (>N/3 times)](https://takeuforward.org/data-structure/majority-elementsn-3-times-find-the-elements-that-appears-more-than-n-3-times-in-the-array)| ❌        |                                                                
+| 5     | `Array` | [Grid Unique Paths](https://takeuforward.org/data-structure/grid-unique-paths-count-paths-from-left-top-to-the-right-bottom-of-a-matrix)                           | ❌        |                                     
+| 6     | `Array` | [Reverse Pairs](https://takeuforward.org/data-structure/count-reverse-pairs)                                                                                       | ❌        |
+
 <br>
 <div align="right">
   <h3><b><a href="#striver-sde-sheet-challenge">⬆️ Back to Top</a></b></h3>
@@ -80,12 +80,12 @@
 
 | S.No. | Topic:  | Problems                                                                                                                                | Solutions | C++                                                                                                                                                                  | Video-Solution                                                                                                                                                            |
 |-------|---------|-----------------------------------------------------------------------------------------------------------------------------------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1     | `Array` |                                                               
-| 2     | `Array` |                                                                 
-| 3     | `Array` |                                                                 
-| 4     | `Array` |                                                                 
-| 5     | `Array` |                                                                 
-| 6     | `Array` |                                                                 
+| 1     | `Array` | [2-Sum-Problem](https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array)                         | ❌        |                                      
+| 2     | `Array` | [4-Sum-Problem](https://takeuforward.org/data-structure/4-sum-find-quads-that-add-up-to-a-target-value)                                 | ❌        |                              
+| 3     | `Array` | [Longest Consecutive Sequence](https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array)                        | ❌        |                                       
+| 4     | `Array` | [Largest Subarray with 0 sum](https://takeuforward.org/data-structure/length-of-the-longest-subarray-with-zero-sum)                     | ❌        |                                          
+| 5     | `Array` | [Count number of subarrays with given Xor K](https://takeuforward.org/data-structure/count-the-number-of-subarrays-with-given-xor-k)    | ❌        |                                                           
+| 6     | `Array` | [Longest Substring without repeat](https://takeuforward.org/data-structure/length-of-longest-substring-without-any-repeating-character) | ❌        |                                                              
   
 <br>
 <div align="right">
