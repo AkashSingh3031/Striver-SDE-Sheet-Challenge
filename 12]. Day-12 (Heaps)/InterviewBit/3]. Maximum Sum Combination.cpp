@@ -1,6 +1,5 @@
-#include<bits/stdc++.h>
-
-vector<int> kMaxSumCombination(vector<int> &A, vector<int> &B, int n, int C) {
+vector<int> Solution::solve(vector<int> &A, vector<int> &B, int C) {
+    int n = A.size();
     vector<int> ans;
     sort(A.begin(), A.end(), greater<int>());
     sort(B.begin(), B.end(), greater<int>());
