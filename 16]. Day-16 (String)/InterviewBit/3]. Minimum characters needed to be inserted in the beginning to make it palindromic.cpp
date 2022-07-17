@@ -1,9 +1,7 @@
-#include<bits/stdc++.h>
-int minCharsforPalindrome(string str) {
-    // Write your code here.
-    string input = str + "@";
-    reverse(str.begin(),str.end());
-    input += str;
+int Solution::solve(string A) {
+    string input = A + "@";
+    reverse(A.begin(),A.end());
+    input += A;
     int n = input.size();
     vector<int>lps(n);
     lps[0] = 0;
@@ -18,5 +16,5 @@ int minCharsforPalindrome(string str) {
         }
         lps[i] = x + 1;
     }
-    return str.size() - lps[n-1];
+    return A.size() - lps[n-1];
 }
